@@ -15,16 +15,16 @@ Actualmente me encuentro reactivando este espacio para documentar mis proyectos 
 
 ### 🛠️ Mi Tech Stack & Herramientas
 
-#### Lenguajes y Desarrollo Front/Back
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+#### 💻 Lenguajes y Desarrollo Front/Back
+![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### Automatización, Datos y Entorno Cloud
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft APIs](https://img.shields.io/badge/Microsoft%20APIs-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### ⚙️ Automatización, Datos y Entorno Cloud
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-0A192F?style=for-the-badge&logo=google&logoColor=61DAFB)
+![Microsoft APIs](https://img.shields.io/badge/Microsoft%20APIs-0A192F?style=for-the-badge&logo=microsoft&logoColor=61DAFB)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-0A192F?style=for-the-badge&logo=googlecloud&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=61DAFB)
 
 ---
 
