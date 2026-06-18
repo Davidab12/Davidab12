@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=80&lines=%C2%A1Hola!+soy+David+Arias+%F0%9F%91%8B;Ingenier%C3%ADa+de+Sistemas+%F0%9F%8E%93;IA+%26+Automation+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=80&lines=%C2%A1Hola!+soy+David+Arias+%F0%9F%91%8B;Ingenier%C3%ADa+de+sistemas+%F0%9F%8E%93;IA+%26+Automation+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 ### 🔮 Core de enfoque tecnológico
-- 🤖 **Inteligencia Artificial:** Implementación e integración de modelos inteligentes y automatización cognitiva.
+- 🤖 **Inteligencia Artificial:** Implementación e integración de modelos inteligentes y automatización cognitivay estrategica.
 - ☁️ **Cloud Computing:** Despliegue de soluciones escalables, flujos de datos y servicios en la nube.
 - ⚡ **Automatización de Procesos:** Diseño de scripts robustos y flujos que eliminan tareas repetitivas.
 
