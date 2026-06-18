@@ -17,15 +17,15 @@
 ---
 
 ### 🔮 Core de enfoque tecnológico
-- 🤖 **Inteligencia Artificial:** Implementación e integración de modelos inteligentes y automatización cognitivay estrategica.
-- ☁️ **Cloud Computing:** Despliegue de soluciones escalables, flujos de datos y servicios en la nube.
-- ⚡ **Automatización de Procesos:** Diseño de scripts robustos y flujos que eliminan tareas repetitivas.
+- 🤖 **Inteligencia artificial:** Implementación e integración de modelos inteligentes y automatización cognitivay estrategica.
+- ☁️ **Cloud computing:** Despliegue de soluciones escalables, flujos de datos y servicios en la nube.
+- ⚡ **Automatización de procesos:** Diseño de scripts robustos y flujos que eliminan tareas repetitivas.
 
 ---
 
 ### 🛠️ Tech stack & ecosistema
 
-#### 🤖 Inteligencia Artificial & Datos
+#### 🤖 Inteligencia artificial & datos
 ![OpenAI](https://img.shields.io/badge/Artificial%20Intelligence-0B132B?style=for-the-badge&logo=openai&logoColor=00F2FE)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0B132B?style=for-the-badge&logo=googlecloud&logoColor=00F2FE)
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-0B132B?style=for-the-badge&logo=googlecloud&logoColor=00F2FE)
@@ -40,7 +40,7 @@
 ---
 
 ### 📂 Despliegues y soluciones
-| Proyecto / Enfoque | Descripción | Stack Tecnológico |
+| Proyecto / Enfoque | Descripción | Stack tecnológico |
 | :--- | :--- | :--- |
 | **Data & AI Dashboards** | Automatización de flujos de datos empresariales e implementación de IA para análisis. | `BigQuery` `OpenAI` `Python` |
 | **Plataformas de formación** | Desarrollo de interfaces con módulos de gamificación para estandarizar contenidos. | `React` `JavaScript` `APIs` |
